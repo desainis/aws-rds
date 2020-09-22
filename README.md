@@ -1,4 +1,36 @@
-Role Name
+![Contributors](https://img.shields.io/github/contributors/desainis/aws-rds)
+![Forks](https://img.shields.io/github/forks/desainis/aws-rds)
+![Stargazers](https://img.shields.io/github/stars/desainis/aws-rds)
+![Issues](https://img.shields.io/github/issues/desainis/aws-rds)
+![MIT License](https://img.shields.io/github/license/desainis/aws-rds)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/desainis/aws-rds">
+    <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Mango.png?hsLang=en-us" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Todos App</h3>
+
+  <p align="center">
+    This sample web application is used to demonstrate how to manage complex AWS Architectures using Ansible.
+    <br />
+    <a href="https://github.com/desainis/aws-rds"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/desainis/aws-rds">View Demo</a>
+    ·
+    <a href="https://github.com/desainis/aws-rds/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/desainis/aws-rds/issues">Request Feature</a>
+  </p>
+</p>
+
+------------
+
+Ansible Role: aws-rds
 =========
 
 A brief description of the role goes here.
